@@ -1,4 +1,4 @@
-saudacao = "Seja bem-vindo "
-nome = "Matheus"
+saudacao = "Seja bem-vindo"
+nome = "Jairo Rocha"
 
-print(saudacao + nome)
+print("Olá sr " + nome  + " " + saudacao)
