@@ -1,5 +1,5 @@
-poupanca = 25490.54
-juros = 125.32
-cartao_credito = 2009.22
+poupanca = 1500.00
+juros = 1.5
+fatura_cartao = 1050.00
 
-print("Você tem depositado na sua poupança R$%.2f e seu rendimento do último mês foi R$%.2f. E a fatura do seu cartão de crédito foi de R$%.2f" % (poupanca, juros, cartao_credito))
+print("Poupança: R$%.2f foi cobrado %.1f de juros e a fatura do meu cartão foi de R$%.2f reais" %(poupanca, juros, fatura_cartao))

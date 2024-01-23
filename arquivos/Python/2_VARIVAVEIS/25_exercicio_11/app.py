@@ -1,8 +1,5 @@
-nome = "Matheus"
-idade = 29
+nome = "Jairo Rocha"
+idade = 41
+conta = 115.75
 
-print("Eu sou o %s e tenho %d anos" % (nome, idade)) 
-
-poupanca = 1245.85
-
-print("Eu tenho um total de R$%.2f na poupança." % poupanca)
+print("Meu nome é %s, tenho %d anos de idade e possuo R$%.2f na conta" %(nome, idade, conta))
