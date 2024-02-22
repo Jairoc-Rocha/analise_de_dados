@@ -1,0 +1,12 @@
+COD MED	MEDICAMENTO
+1938	Amoxicilina
+1428	Dipirona
+1530	Dorflex
+1734	Duloxetina
+1632	Ibuprofeno
+1836	Losartana
+2040	Neosaldina
+1326	Nimesulida
+2142	Omeprazol
+2346	Paracetamol
+2244	Torsilax
