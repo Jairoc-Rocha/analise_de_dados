@@ -1,2 +1,2 @@
-Módulo 2 - Importando e Tratando Bases de Dados Tratando a base Cadastro Produtos
-Parei na página 29
+Módulo 3 Criando Relacionamentos Relações Ativas X Relações Inativas (Parte 1)
+Parei na página 164
